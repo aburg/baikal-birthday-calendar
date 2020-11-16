@@ -1,0 +1,22 @@
+{
+    "name": "aburg/baikal-birthday-calendar",
+    "description": "",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andreas Burg",
+            "email": "andreas.burg@gmx.net",
+            "homepage": "https://andreasburg.net",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^7.1",
+        "sabre/dav": "~4.1.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Aburg\\BaikalBirthdayCalendar\\": "src/"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+# Composer stuff
+composer.lock
+vendor
+
+# Vim
+.*.swp
+
+# Others
+.DS_Store
+
+# IDE
+.idea
+
+*.cache
